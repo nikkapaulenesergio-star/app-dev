@@ -1,7 +1,7 @@
 # My Favorite Series
 
 ## Stranger Things
-[alt text](MyFiles/Downloads/imgres.html)
+
 **Genre:** Science Fiction, Horror, Mystery
 
 ### About the Series
